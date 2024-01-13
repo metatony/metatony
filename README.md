@@ -16,7 +16,7 @@ I'm a Software Developer with knowledge in App and Web Development
 
 - 🔭 I’m currently working on spreading positive vibes through code and creativity!
   
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning React Native & TypeScript.
   
 - 👯  I’m looking to collaborate on projects that bring a smile to people's faces. Whether it's coding, design, or just brainstorming ideas.
   
