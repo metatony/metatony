@@ -3,14 +3,9 @@
 **metatony/metatony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hi, I'm Anthony! 👋
-
-I'm a Software Developer with knowledge in App and Web Development
+<!--### Hi, I'm metatony 👋-->
 
 
----
-
-![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=metatony&show_icons=true&theme=react)
 
 ### 🚀 About Me
 
@@ -18,17 +13,5 @@ I'm a Software Developer with knowledge in App and Web Development
   
 - 🌱 I’m currently learning React Native & TypeScript.
   
-- 👯  I’m looking to collaborate on projects that bring a smile to people's faces. Whether it's coding, design, or just brainstorming ideas.
+- 👯  Actively contributing.
   
-- 📫 How to reach me: 
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-ibegbulam-077767214/)
-
-
-
-## 🛠 Skills
-
-Flutter, React, React Native, Dart, Javascript, TypeScript, Python, HTML, CSS, Tailwind, Firebase, SQL
-
